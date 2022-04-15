@@ -53,6 +53,6 @@
 - Do more exercise in Ti Cup National Undergraduate Electronics Design Contest
 - Just learn what I should learn
 - EXPLORE MORE
-### ⏯️ **Thanks [9cats](https://github.com/9cats)**
+### ❤️ **Thanks [9cats](https://github.com/9cats)**
 
 </details>
