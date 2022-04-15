@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on: Current Student 
 - 🌱 I’m currently learning: STM32,Android,LVGL,RT-Thread,TouchGFX
 - 🙋‍♂️ I’m looking for: Manifest der Kommunistischen Partei
-- 💬 Ask me about: [Email]（mailto:vectorgun@outlook.com）,[telegram](https://t.me/Shin_ki_rou),[Blog](https://www.kissshot.cyou/)
+- 💬 Ask me about: [Email](mailto:vectorgun@outlook.com),[telegram](https://t.me/Shin_ki_rou),[Blog](https://www.kissshot.cyou/)
 - ⚡ In fact: 私は2次元です🥰🥰🥰
 
 <details markdown='1'><summary>More</summary>
