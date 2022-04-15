@@ -16,9 +16,11 @@
 
 ### 🔧 **Most Used Developing Tools&Platforms**
 
-![](https://img.shields.io/badge/System-Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=JetBrains&logoColor=#000000)
+![](https://img.shields.io/badge/System-Windows11-0078d6?style=flat-square&logo=windows&logoColor=0078D6)
+![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![](https://img.shields.io/badge/IDE-Jet%20Brains-000000?style=flat-square&logo=JetBrains&logoColor=fff)
+![](https://img.shields.io/badge/IDE-STM32%20Cube-03234B?style=flat-square&logo=STMicroelectronics&logoColor=fff)
+![](https://img.shields.io/badge/IDE-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=FF6C37)
 
 ### 🌟 **My Skills**
 
@@ -28,23 +30,29 @@
 ![](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
 
 ### 🌱 **Next Skill&Tools Of Interest**
 
 ![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=Altium-Designer&logoColor=fff)
+![](https://img.shields.io/badge/-Esp%2032-A1352C?style=flat-square&logo=Espressif&logoColor=E7352C)
+### 🏕️ **Most Yearning Tools & Platforms**
 
-### 🏕️ **Most Yearning Tools&Platforms**
+![](https://img.shields.io/badge/-Samsung%20Galaxy%20Tab%20S7-3428A0?style=flat-square&logo=Samsung&logoColor=fff)
+![](https://img.shields.io/badge/-Xiaomi%20Gaming%20LapTop%202018-FF6900?style=flat-square&logo=Xiaomi&logoColor=fff)
+![](https://img.shields.io/badge/-Xiaomi%2010%20Phone-FF6900?style=flat-square&logo=Xiaomi&logoColor=fff)
 
-![](https://img.shields.io/badge/-MacBook%20With%20M%20Chip-00ADD8?style=flat-square&logo=MacOS&logoColor=fff)
-![](https://img.shields.io/badge/-iPad%20Pro%20With%20Penceil-00ADD8?style=flat-square&logo=Apple&logoColor=fff)
+### 🎮 **Slightly Favorite Leisure**
 
+![](https://img.shields.io/badge/-osu!-FF66AA?style=flat-square&logo=osu!&logoColor=fff)
+![](https://img.shields.io/badge/-Nintendo%20Switch-E60012?style=flat-square&logo=Nintendo-Switch&logoColor=fff)
+![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=fff)
+![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=fff)
 ### ⏯️ **Next Plans**
 
 - Do more exercise in Ti Cup National Undergraduate Electronics Design Contest
 - Just learn what I should learn
-- EXPLORE
+- EXPLORE MORE
+### ⏯️ **Thanks [9cats](https://github.com/9cats)**
 
 </details>
