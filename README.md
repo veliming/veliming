@@ -36,7 +36,7 @@
 ![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=Altium-Designer&logoColor=fff)
 ![](https://img.shields.io/badge/-Esp%2032-A1352C?style=flat-square&logo=Espressif&logoColor=E7352C)
-![](https://img.shields.io/badge/-Rust%2032-A1352C?style=flat-square&logo=Rust&logoColor=E73666)
+![](https://img.shields.io/badge/-Rust-A1352C?style=flat-square&logo=Rust&logoColor=E73666)
 
 ### 🏕️ **Most Yearning Tools & Platforms**
 
