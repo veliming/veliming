@@ -36,6 +36,8 @@
 ![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=Altium-Designer&logoColor=fff)
 ![](https://img.shields.io/badge/-Esp%2032-A1352C?style=flat-square&logo=Espressif&logoColor=E7352C)
+![](https://img.shields.io/badge/-Rust%2032-A1352C?style=flat-square&logo=Rust&logoColor=E73666)
+
 ### 🏕️ **Most Yearning Tools & Platforms**
 
 ![](https://img.shields.io/badge/-Samsung%20Galaxy%20Tab%20S7-3428A0?style=flat-square&logo=Samsung&logoColor=fff)
@@ -50,8 +52,8 @@
 ![](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=fff)
 ### ⏯️ **Next Plans**
 
-- Do more exercise in Ti Cup National Undergraduate Electronics Design Contest
 - Just learn what I should learn
+- National Post-graduate Entrance Examination
 - EXPLORE MORE
 ### ❤️ **Thanks [9cats](https://github.com/9cats)**
 
