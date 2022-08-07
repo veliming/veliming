@@ -14,7 +14,7 @@
 
 <details markdown='1'><summary>More</summary>
 
-### 🔧 **Most Used Developing Tools&Platforms**
+### 🔧 **Most Used Developing Platforms**
 
 ![](https://img.shields.io/badge/System-Windows11-0078d6?style=flat-square&logo=windows&logoColor=0078D6)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
@@ -38,7 +38,7 @@
 ![](https://img.shields.io/badge/-Esp%2032-A1352C?style=flat-square&logo=Espressif&logoColor=E7352C)
 ![](https://img.shields.io/badge/-Rust-A1352C?style=flat-square&logo=Rust&logoColor=E73666)
 
-### 🏕️ **My Tools & Platforms**
+### 🏕️ **My Tools**
 
 ![](https://img.shields.io/badge/-Samsung%20Galaxy%20Tab%20S7-3428A0?style=flat-square&logo=Samsung&logoColor=fff)
 ![](https://img.shields.io/badge/-Xiaomi%20Gaming%20LapTop%202018-FF6900?style=flat-square&logo=Xiaomi&logoColor=fff)
