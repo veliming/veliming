@@ -38,7 +38,7 @@
 ![](https://img.shields.io/badge/-Esp%2032-A1352C?style=flat-square&logo=Espressif&logoColor=E7352C)
 ![](https://img.shields.io/badge/-Rust-A1352C?style=flat-square&logo=Rust&logoColor=E73666)
 
-### 🏕️ **Most Yearning Tools & Platforms**
+### 🏕️ **My Tools & Platforms**
 
 ![](https://img.shields.io/badge/-Samsung%20Galaxy%20Tab%20S7-3428A0?style=flat-square&logo=Samsung&logoColor=fff)
 ![](https://img.shields.io/badge/-Xiaomi%20Gaming%20LapTop%202018-FF6900?style=flat-square&logo=Xiaomi&logoColor=fff)
