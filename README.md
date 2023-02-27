@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning: STM32,Android,LVGL,RT-Thread,TouchGFX
 - 🙋‍♂️ I’m looking for: Master's degree
 - 💬 Ask me about: [Email](mailto:vectorgun@outlook.com),[telegram](https://t.me/Shin_ki_rou),[Blog](https://www.kissshot.cyou/)
-- ⚡ In fact: 私は2次元です🥰🥰🥰
+- ⚡ In fact: 超想拿高薪😂
 
 <details markdown='1'><summary>More</summary>
 
