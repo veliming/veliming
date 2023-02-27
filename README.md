@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: Current Student 
 - 🌱 I’m currently learning: STM32,Android,LVGL,RT-Thread,TouchGFX
-- 🙋‍♂️ I’m looking for: Master's degree
+- 🙋‍♂️ I’m looking for: “good job”
 - 💬 Ask me about: [Email](mailto:vectorgun@outlook.com),[telegram](https://t.me/Shin_ki_rou),[Blog](https://www.kissshot.cyou/)
 - ⚡ In fact: 超想拿高薪😂
 
@@ -42,7 +42,7 @@
 
 ![](https://img.shields.io/badge/-Samsung%20Galaxy%20Tab%20S7-3428A0?style=flat-square&logo=Samsung&logoColor=fff)
 ![](https://img.shields.io/badge/-Xiaomi%20Gaming%20LapTop%202018-FF6900?style=flat-square&logo=Xiaomi&logoColor=fff)
-![](https://img.shields.io/badge/-Xiaomi%2010%20Phone-FF6900?style=flat-square&logo=Xiaomi&logoColor=fff)
+![](https://img.shields.io/badge/-OnePlus%2011%20Phone-FF6900?style=flat-square&logo=OnePlus&logoColor=fff)
 
 ### 🎮 **Slightly Favorite Leisure**
 
