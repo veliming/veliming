@@ -42,7 +42,7 @@
 
 ![](https://img.shields.io/badge/-Samsung%20Galaxy%20Tab%20S7-3428A0?style=flat-square&logo=Samsung&logoColor=fff)
 ![](https://img.shields.io/badge/-Xiaomi%20Gaming%20LapTop%202018-FF6900?style=flat-square&logo=Xiaomi&logoColor=fff)
-![](https://img.shields.io/badge/-OnePlus%2011%20Phone-FF6900?style=flat-square&logo=OnePlus&logoColor=fff)
+![](https://img.shields.io/badge/-OnePlus%2011%20Phone-E60012?style=flat-square&logo=OnePlus&logoColor=fff)
 
 ### 🎮 **Slightly Favorite Leisure**
 
