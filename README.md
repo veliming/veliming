@@ -6,7 +6,7 @@
 
 ### I am a lover of delving technology
 
-- 🔭 I’m currently working on: HIK
+- 🔭 I’m currently working on: HIK/BMC
 - 🌱 I’m currently learning: STM32,Android,LVGL,RT-Thread,TouchGFX
 - 🙋‍♂️ I’m looking for: high skill
 - 💬 Ask me about: [Email](mailto:vectorgun@outlook.com),[telegram](https://t.me/Shin_ki_rou),[Blog](https://www.kissshot.cyou/)
