@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on: HIK/BMC
 - 🌱 I’m currently learning: STM32,Android,LVGL,RT-Thread,TouchGFX
 - 🙋‍♂️ I’m looking for: high skill
-- 💬 Ask me about: [Email](mailto:vectorgun@outlook.com),[telegram](https://t.me/Shin_ki_rou),[Blog](https://www.kissshot.cyou/)
+- 💬 Ask me about: [Email](mailto:vectorgun@outlook.com),[telegram](https://t.me/Shin_ki_rou),[Blog](https://www.kissshot.top/)
 - ⚡ In fact: 想要摸鱼🐟
 
 <details markdown='1'><summary>More</summary>
